@@ -6,6 +6,6 @@ Twitter app for analyzing the tweets and the users tweeting about it.
 3 - Top users metions with count
 4 - Top Hashtags being used with count
 5 - User's follower distribution wrt device
-6 - Count distribution of people wo tweet wrt which year joined
+6 - Count distribution of people who tweeted wrt which year joined
 7 - Sentimental analysis wrt tweets
 8 - Generate complete raw tweets
